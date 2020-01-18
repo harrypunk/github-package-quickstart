@@ -12,7 +12,11 @@ https://github.com/settings/tokens
 {
   "name": "@harrypunk/github-package-quickstart",
   "repository": "https://github.com/harrypunk/github-package-quickstart",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
 
 ```
-
+4. Publish
+```bash
+npm publish
+```
