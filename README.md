@@ -1,4 +1,4 @@
-# TLDR publish a package to github in 1min
+# TLDR; publish a package to github in 1min
 1. A access token with ```read:packages``` and ```write:packages```.  
 https://github.com/settings/tokens
 
