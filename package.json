@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Github package repository quick start",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/harrypunk/github-package-quickstart"
-  },
+  "repository": "https://github.com/harrypunk/github-package-quickstart",
   "keywords": [],
   "author": "",
   "license": "ISC"
