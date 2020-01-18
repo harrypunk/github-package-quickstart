@@ -1,6 +1,6 @@
 {
   "name": "@harrypunk/github-package-quickstart",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Github package repository quick start",
   "main": "index.js",
   "repository": "https://github.com/harrypunk/github-package-quickstart",
