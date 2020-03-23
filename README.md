@@ -20,3 +20,11 @@ https://github.com/settings/tokens
 ```bash
 npm publish
 ```
+#### Yarn v2  
+No need for ```~/.npmrc```, use ```.yarnrc.yml``` in project:
+```yaml
+npmAuthToken: "ffff-ffff"
+npmPublishAccess: "public"
+npmPublishRegistry: "https://npm.pkg.github.com"
+
+```
